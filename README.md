@@ -3,7 +3,7 @@
 **Backend Developer** | Mansoura, Egypt 🇪🇬 | Building Scalable Systems with Modern Technologies
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColor=7B2CBF&height=160&section=header&text=Omar%20Elhelaly&fontSize=45&animation=blinking&fontAlignY=38" alt="Omar Elhelaly Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=6E40C9&height=140&section=header&text=Omar%20Elhelaly&fontSize=42&animation=fadeIn" alt="Header" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-elhelaly-601791332/)
@@ -61,21 +61,19 @@ Always excited to combine **Backend Development** with **Generative AI** to crea
 **Core**: Clean Architecture • SOLID • REST & GraphQL APIs • RBAC • JWT • Caching • Payment Integration • Query Optimization • **Generative AI & RAG**
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omar113650&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="Omar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omar113650&show_icons=true&theme=tokyonight&hide_border=true&locale=en&cache_seconds=1800" alt="Omar's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar113650&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar113650&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar113650&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar113650&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Streak" />
 </p>
-
 ---
 
 ## 🔥 Featured Projects
