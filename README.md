@@ -1,4 +1,4 @@
-# Hey 👋, I'm Omar Elhelaly — Crafting Scalable Backends & Intelligent AI Systems
+# Hey ⚡ I'm Omar Elhelaly — Crafting Scalable Backends & Intelligent AI Systems
 
 **Backend Developer** | Mansoura, Egypt 🇪🇬 | Building Scalable Systems with Modern Technologies
 
@@ -15,10 +15,9 @@
 
 ## ✨ About Me
 
-🎓 **Second-year Computer Science Student** at **Mansoura University**.  
+🎓 ** Computer Science ** at **Mansoura University**.  
 💻 Passionate **Backend Developer** specialized in creating **secure, scalable, and high-performance** systems using Node.js, Express, NestJS, and modern databases.
 
-- 🔭 **I'm currently working on** production-grade backend projects including **إدراك بلس** (E-learning Platform with RBAC, payments, analytics & real-time features) and **Bazooka-like CRM** system.
 - 🌱 **I'm currently learning & exploring** GraphQL, TypeScript, Microservices, DevOps (Docker, CI/CD), Cloud Computing, and **Generative AI** technologies.
 - ⚡ **Fun Fact**: I enjoy adding humor to logs and error messages — debugging becomes way more enjoyable! 😄
 
