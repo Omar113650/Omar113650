@@ -1,9 +1,9 @@
-# Hi 👋, I'm Omar Elhelaly
+# Hello , I'm Omar Elhelaly — Crafting Scalable Backends & Intelligent AI Systems
 
-**Backend Developer** | Mansoura, Egypt 🇪🇬 | Passionate about Scalable & Secure Systems
+**Backend Developer** | Mansoura, Egypt 🇪🇬 | Building Scalable Systems with Modern Technologies
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=6E40C9&height=140&section=header&text=Omar%20Elhelaly&fontSize=42&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColor=7B2CBF&height=160&section=header&text=Omar%20Elhelaly&fontSize=45&animation=blinking&fontAlignY=38" alt="Omar Elhelaly Header" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-elhelaly-601791332/)
@@ -16,17 +16,26 @@
 ## ✨ About Me
 
 🎓 **Second-year Computer Science Student** at **Mansoura University**.  
-💻 **Backend Developer** specialized in building **secure, scalable, and high-performance** systems using the Node.js ecosystem.
+💻 Passionate **Backend Developer** specialized in creating **secure, scalable, and high-performance** systems using Node.js, Express, NestJS, and modern databases.
 
-- 🔭 **I'm currently working on** building a strong MERN stack focus with heavy backend work: handling APIs, authentication, real-time features, database design, RBAC, payments, and analytics (projects like **إدراك بلس** and **Bazooka-like CRM**).
-- 🌱 **I'm currently learning** GraphQL for optimized data fetching, TypeScript for better type safety, System Design, Microservices, Cloud Computing, and DevOps to scale applications effectively.
-- 👯 **I'm looking to collaborate on** open-source projects, especially backend systems, API design, and Node.js applications.
-- 🤝 **I'm looking for help with** architecting scalable backend systems, advanced database design, and implementing best practices for high-performance web apps.
-- 💬 **Ask me about** Node.js backend development, Express.js / NestJS APIs, JWT authentication, database design (SQL & NoSQL), GraphQL, RESTful APIs, real-time features, and integrating backend with React frontends.
-- ⚡ **Fun Fact**: I enjoy adding humor to logs and debugging — it makes backend development way less stressful! 😄
+- 🔭 **I'm currently working on** production-grade backend projects including **إدراك بلس** (E-learning Platform with RBAC, payments, analytics & real-time features) and **Bazooka-like CRM** system.
+- 🌱 **I'm currently learning & exploring** GraphQL, TypeScript, Microservices, DevOps (Docker, CI/CD), Cloud Computing, and **Generative AI** technologies.
+- ⚡ **Fun Fact**: I enjoy adding humor to logs and error messages — debugging becomes way more enjoyable! 😄
 
-👨‍💻 All of my projects are available at **[My Portfolio](https://omar-portfolio-chi.vercel.app/)**  
-📄 **[Download Resume / CV](https://drive.google.com/file/d/1XvxylJg_VW-kzEK6QIsw6bdJPOMRH9m2/view?usp=sharing)**
+👨‍💻 All my projects → **[Portfolio](https://omar-portfolio-chi.vercel.app/)**  
+📄 **[Download Resume](https://drive.google.com/file/d/1XvxylJg_VW-kzEK6QIsw6bdJPOMRH9m2/view?usp=sharing)**
+
+---
+
+## 🧠 Generative AI Interest
+
+I'm actively working with **Generative AI** and LLM-based applications:
+
+- Built **Conversational RAG Chatbot** and **RAG Multi-File QA** systems.
+- Developed **Ask-Dos AI** — an intelligent assistant using Retrieval-Augmented Generation.
+- Exploring integration of AI capabilities into backend systems (AI-powered features, smart notifications, content generation, etc.).
+
+Always excited to combine **Backend Development** with **Generative AI** to create smarter and more powerful applications.
 
 ---
 
@@ -37,29 +46,26 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Backend & Tools
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a>
-  <a href="https://nestjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://docker.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a>
-</p>
+### Backend & AI
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-**Core Expertise**: Clean Architecture, SOLID Principles, REST & GraphQL APIs, RBAC, JWT, Caching, Payment Integration, Query Optimization, Microservices.
+### Databases & DevOps
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Core**: Clean Architecture • SOLID • REST & GraphQL APIs • RBAC • JWT • Caching • Payment Integration • Query Optimization • **Generative AI & RAG**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omar113650&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="Omar's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omar113650&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="Omar's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -67,21 +73,21 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar113650&theme=dracula&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar113650&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🔥 Featured Projects
 
-- **[Elhelaly Plus - Online Courses Platform](https://github.com/Omar113650/Elhelaly--Plus-Online-Courses-Platform)** — Full E-learning System with RBAC, Analytics & Payments
-- **[ERP Sales Backend](https://github.com/Omar113650/ERP-App-Sales---Backend)** — Complete ERP System
-- **[Bazooka](https://github.com/Omar113650/Bazooka)** — Advanced CRM & Restaurant Backend
-- **[ECommerce Website](https://github.com/Omar113650/ECommarce-website)** — Full E-commerce Platform
+- **[Elhelaly Plus - Online Courses Platform](https://github.com/Omar113650/Elhelaly--Plus-Online-Courses-Platform)** — Advanced E-learning with RBAC & Payments
+- **[ERP Sales Backend](https://github.com/Omar113650/ERP-App-Sales---Backend)** — Full ERP System
+- **[Bazooka](https://github.com/Omar113650/Bazooka)** — CRM & Restaurant Backend
+- **[Conversational RAG Chatbot](https://github.com/Omar113650/conversational-rag-chatbot)** — Generative AI Chatbot
+- **[RAG Multi-File QA](https://github.com/Omar113650/RAG-MultiFile-QA)** — Intelligent Document QA System
+- **[Ask-Dos AI](https://github.com/Omar113650/Ask-Dos-Ai)** — AI Assistant
+- **[ECommerce Website](https://github.com/Omar113650/ECommarce-website)**
 - **[Hospital Management System](https://github.com/Omar113650/Hospital-management-system)**
-- **[EventTix Platform](https://github.com/Omar113650/EventTix-Platform)** — Event Ticketing System
-- **[Dashboard](https://github.com/Omar113650/Dashboard)** — Admin Dashboard Backend
-- **[Swift Ride](https://github.com/Omar113650/swift-ride)** — Ride Booking Backend
 
 🔗 **[View All Repositories](https://github.com/Omar113650?tab=repositories)**
 
@@ -90,13 +96,13 @@
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/Omar113650" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Omar113650" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/omar-elhelaly-601791332" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Omar Elhelaly" height="30" width="40" /></a>
-  <a href="https://fb.com/Omar Elhelaly" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Omar Elhelaly" height="30" width="40" /></a>
-  <a href="https://leetcode.com/omar-elhelaly" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omar-elhelaly" height="30" width="40" /></a>
+  <a href="https://github.com/Omar113650" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/omar-elhelaly-601791332" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://fb.com/Omar Elhelaly" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://leetcode.com/omar-elhelaly" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
-**Open to collaborations**, discussions about backend architecture, and opportunities!
+**I'm open to** collaborations on backend projects, Generative AI applications, and open-source contributions.
 
 ---
 
