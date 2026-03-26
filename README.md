@@ -62,22 +62,17 @@ Always excited to combine **Backend Development** with **Generative AI** to crea
 
 ---
 
-## 📊 GitHub Activity
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omar113650&show_icons=true&theme=tokyonight&hide_border=true&locale=en&cache_seconds=3600" alt="Omar's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omar113650&show_icons=true&theme=onedark&hide_border=true&locale=en&cache_seconds=7200" alt="Omar's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar113650&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true&cache_seconds=7200" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar113650&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar113650&theme=onedark&hide_border=true&locale=en" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar113650&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Streak" />
-</p>
----
 
 ## 🔥 Featured Projects
 
