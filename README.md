@@ -64,16 +64,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omar113650&show_icons=true&theme=radical&hide_border=true&locale=en" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar113650&theme=radical&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omar113650&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Omar's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar113650&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar113650&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Omar113650&theme=radical&margin-w=15" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar113650&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Omar113650&theme=tokyonight&margin-w=15&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
