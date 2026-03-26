@@ -80,14 +80,6 @@ Always excited to combine **strong backend architecture** with **Generative AI**
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omar113650&show_icons=true&theme=tokyonight&hide_border=true&locale=en&cache_seconds=3600" alt="Omar's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar113650&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar113650&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Streak" />
 </p>
 
